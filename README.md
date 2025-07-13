@@ -17,6 +17,16 @@ A simple **Tic Tac Toe (XO Game)** built using **Java AWT**. This version uses 9
 2. Save the file as `TicTacToe.java`
 3. Open terminal or command prompt, then compile and run:
 
+## 🖼 Screenshot
+
+Here is a preview of the Tic Tac Toe game GUI:
+
+![Tic Tac Toe Game](![Uploading Screenshot (36).png…]()
+)
+![Uploading Screenshot (37).png…]()
+
+   
+
 ```bash
 javac TicTacToe.java
 java TicTacToe
